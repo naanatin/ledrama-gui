@@ -10,4 +10,4 @@ In this project my main contributions were
 * Technical guidance to the Ledrama- ESP32 controller software, including multiple GUI and UX-related desicions
 * Forming the correct MQTT-messages
 * ArtNet support for the interface
-* Backend flows
+* Backend flows (flows.json)
